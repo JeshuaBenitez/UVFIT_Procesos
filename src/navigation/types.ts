@@ -1,0 +1,20 @@
+export type RootStackParamList = {
+  Splash: undefined;
+  Login: undefined;
+  Home: undefined;
+  PhysicalDataScreen: undefined;
+  Profile: undefined;
+  Evaluation: undefined;
+  Settings: undefined;
+  InputData: undefined;
+  Register: undefined;
+  Results: undefined;
+  Strength: undefined;
+  Flexibility: undefined;
+  Speed: undefined;
+  Resistance: undefined;
+  Motivational: undefined;
+  Performance: undefined;
+  RecoverCredentials: undefined;
+  PhysicalEvaluationScreen: undefined;
+};

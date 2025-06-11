@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "UVFit",
+    "slug": "UVFit",
+    "entryPoint": "./src/App.tsx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.jeshuabenitez.UVFit"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "46fd5434-9f92-4d46-b798-6515b8317ac3"
+      }
+    },
+    "plugins": []
+  }
+}
